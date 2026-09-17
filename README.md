@@ -11,7 +11,6 @@ Based in Singapore.
 
 ## A few things I've made
 - **[halfspaces.co](https://halfspaces.co)**: my site and working notebook; also where the code lives ([repo](https://github.com/nigeleatworld/halfspaces))
-- **[spacepod](https://spacepod.co)**: turns the podcasts you choose into a personal knowledge base you can search, question, and revisit anytime
 - **bitpybit**: an iOS app for learning Python in small bites; heading to the App Store
 
 ## Before this
